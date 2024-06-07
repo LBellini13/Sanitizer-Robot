@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/student/ros2/sanitizer_ws/install/sanification/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/path_coverage/local/lib/python3.10/dist-packages",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_demo/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_msgs/local/lib/python3.10/dist-packages",
+        "/home/student/ros2/sanitizer_ws/install/navigation_from_text/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/localization/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/energy_manager/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/energy_map_msg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/student/ros2/sanitizer_ws/install/sanification/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/path_coverage/local/lib/python3.10/dist-packages",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_demo/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_msgs/local/lib/python3.10/dist-packages",
+        "/home/student/ros2/sanitizer_ws/install/navigation_from_text/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/localization/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/energy_manager/lib/python3.10/site-packages",
+        "/home/student/ros2/sanitizer_ws/install/energy_map_msg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/student/ros2/sanitizer_ws/install/explore_lite/include/**",
+        "/home/student/ros2/sanitizer_ws/install/energy_map_msg/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/student/ros2/sanitizer_ws/src/explore/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

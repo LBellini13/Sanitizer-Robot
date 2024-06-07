@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/student/ros2/sanitizer_ws/install/opennav_row_coverage/include/**",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_navigator/include/**",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_bt/include/**",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage/include/**",
+        "/home/student/ros2/sanitizer_ws/install/opennav_coverage_msgs/include/**",
+        "/home/student/ros2/sanitizer_ws/install/explore_lite/include/**",
+        "/home/student/ros2/sanitizer_ws/install/energy_map_msg/include/**",
+        "/home/student/ros2/sanitizer_ws/install/backported_bt_navigator/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/student/ros2/sanitizer_ws/src/energy_map_msg/include/**",
+        "/home/student/ros2/sanitizer_ws/src/m-explore-ros2/explore/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
